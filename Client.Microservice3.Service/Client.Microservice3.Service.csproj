@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{CD783886-0571-48A9-A8DC-281ACB69659B}</ProjectGuid>
+    <ProjectGuid>{0714ACC2-9533-4BC1-A921-FBD3AAA2C2AC}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Client.Microservice3.Service</RootNamespace>
